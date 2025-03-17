@@ -1,0 +1,8 @@
+Job Recommendation Portal:
+
+The Job Recommendation Portal is a web-based platform designed to streamline the job search and recruitment process.
+It connects job seekers and employers by offering an intuitive interface for job searching, application management, and candidate shortlisting.
+The portal provides personalized job recommendations based on user preferences, job categories, and search history, ensuring better job-candidate matching.
+Key features include advanced job search with filters, resume management, employer dashboards, application tracking, interview scheduling, real-time notifications, and secure authentication.
+Employers can efficiently post jobs, review applications, and manage hiring, while job seekers can search, apply, and track their applications seamlessly.
+With a focus on user-friendly navigation, efficient job matching, and a secure hiring process, this portal aims to improve job discovery and recruitment, reducing hiring time and enhancing candidate-employer interactions.
